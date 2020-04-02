@@ -20,12 +20,6 @@ const navSlide = () => {
 	});
 }
 
-
-
-
-
-
-const callFunct = ()=> {
 	navSlide();
-}
+
 
